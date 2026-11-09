@@ -10,7 +10,7 @@ The objective of this project is to transform hospital data into meaningful insi
 
 The analysis covers **506 patient records from June 2023**.
 
-## 🎯 Project Objectives
+#🎯 Project Objectives
 
 - Analyze the total number of patients visiting the Emergency Room.
 - Evaluate average patient waiting time.
@@ -30,43 +30,7 @@ The analysis covers **506 patient records from June 2023**.
 - Data Analysis
 - Data Visualization
 
-#📊 Key Performance Indicators (KPIs)
-
-| KPI | Result |
-|---|---:|
-| Total Patients | 506 |
-| Average Waiting Time | 35.58 Minutes |
-| Average Patient Satisfaction | 3.62 / 5 |
-| Admitted Patients | 252 |
-| Non-Admitted Patients | 254 |
-| Patients Attended On Time | 322 |
-| Patients Experiencing Delays | 184 |
-
-#Key Insights
-
-#1. Patient Admission Analysis
-- Out of 506 patients, 252 patients were admitted.
-- 254 patients were not admitted.
-- Approximately 49.80% of patients were admitted.
-
-### 2. Patient Satisfaction Analysis
-- The average patient satisfaction score was 3.62 out of 5.
-- Patient satisfaction varied across different days.
-
-### 3. Patient Waiting Time Analysis
-- The average patient waiting time was approximately 35.58 minutes.
-- Daily waiting time trends were analyzed to understand variations in patient service efficiency.
-
-### 4. Patient Demographic Analysis
-- Total female patients: 233.
-- Total male patients: 273.
-- Patient records were also categorized into different age groups to understand demographic distribution.
-
-### 5. Patient Attendance Analysis
-- 322 patients were attended on time.
-- 184 patients experienced delays.
-
-### 6. Department Referral Analysis
+  # 6. Department Referral Analysis
 The analysis highlights referrals across different hospital departments, including:
 
 - General Practice
@@ -78,9 +42,7 @@ The analysis highlights referrals across different hospital departments, includi
 - Renal
 
 #📈 Dashboard Features
-
 The Excel dashboard provides visual insights into:
-
 - Total patient visits.
 - Average patient satisfaction score.
 - Average waiting time.
